@@ -1,0 +1,226 @@
+body{
+	font-family: 'Roboto', sans-serif;
+}
+.container{
+	width: 960px;
+	display:  flex;
+	flex-direction: column;
+	margin:0 auto;
+}
+
+
+
+/*Header*/
+
+
+
+.header{
+	width:100%;
+	display:  flex;
+	flex-direction: row;
+	height: 100px;
+	padding: 20px;
+	justify-content: space-between;
+	align-items: center;
+	background: grey;
+	margin: 10px;
+}
+.menu{
+	display: flex;
+}
+.item{
+	color:white;
+	width: 300px;
+	font-size: 22px;
+	list-style-type: none; 
+}
+.logo{
+	height: 90px;
+}
+
+
+
+/*Banner 1*/
+
+
+
+.banner1{
+	width:997px;
+	height:250px;
+	display: flex;
+	align-items: center;
+	background-image:url(../img/slid12.JPG); 
+	margin: 10px;
+}
+.block1{
+	width: 997px;
+	height: 100%;
+	
+	background:darkgrey;
+}
+h1{
+	color:green;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 70px;
+}
+h2{
+	color:black;
+	font-size: 20px;
+	text-align: center;
+
+}
+.foto{
+	width:450px;
+	height: 280px;
+}
+ 
+
+
+
+/*INFO 1*/
+
+
+
+.info1{
+	width:997px;
+	height:550px;
+	background:darkgrey; 	
+	margin: 10px;
+}
+.info_h1{
+ 	color:black;
+	font-size: 25px;
+	text-align: center;	
+	margin-top: 20px;
+}
+.eco1{
+	margin-left: 450px;
+	margin-top: 25px;
+	height: 55px;
+}
+
+
+
+
+/*Banner 2*/
+
+
+
+.banner2{
+	width:997px;
+	height:200px;
+	align-items: center;
+	background-image:; 
+	margin: 10px;
+}
+.block2{
+	width: 997px;
+	height: 100%;
+	background:#22BD3F;
+	background-size: 100%;
+}
+.foto{
+	width:450px;
+	height: 280px;
+}
+
+
+
+
+/*INFO 2*/
+
+
+
+.info2{
+	width:997px;
+	height:550px;
+	background:darkgrey; 
+	margin: 10px;	
+}
+.info_h2{
+ 	color:black;
+	font-size: 25px;
+	text-align: center;	
+	margin-top: 30px;
+}
+.eco2{
+	margin-left: 450px;
+	margin-top: 25px;
+	height: 55px;
+}
+
+
+
+
+
+/*Banner 3*/
+
+
+.banner3{
+	width:997px;
+	height:200px;
+	align-items: center;
+	background-image: ; 
+	margin: 10px;
+}
+.block3{
+	width: 997px;
+	height: 100%;
+	background:#22BD3F;
+	background-size: 100%;
+}
+.foto{
+	width:450px;
+	height: 280px;
+}
+
+
+
+
+/*INFO 3*/
+
+
+.info3{
+	width:997px;
+	height:550px;
+	background:darkgrey; 
+	margin: 10px;	
+}
+.info_h3{
+ 	color:black;
+	font-size: 25px;
+	text-align: center;	
+	margin-top: 30px;
+}
+.eco3{
+	margin-left: 450px;
+	margin-top: 25px;
+	height: 55px;
+}
+
+
+
+
+/*Banner 4*/
+
+
+
+.banner4{
+	width:997px;
+	height:200px;
+	align-items: center;
+	background-image: ; 
+	margin: 10px;
+}
+.block4{
+	width: 997px;
+	height: 100%;
+	background:#22BD3F;
+	background-size: 100%;
+}
+.foto{
+	width:450px;
+	height: 280px;
+}
+
